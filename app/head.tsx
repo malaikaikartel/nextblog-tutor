@@ -5,7 +5,7 @@ export default function Head() {
       <title>Red Frame</title>
       <meta content="width=device-width, initial-scale=1" name="viewport" />
      <Script
-   id="Adsense-id"
+   id="6486641123"
    // your tag google publisher
    data-ad-client="ca-pub-6389784149267865"
    async="true"
